@@ -1,7 +1,7 @@
 import axios from "axios";
 
-// const apiUrl = "http://154.205.134.245:8000"
-const apiUrl="http://127.0.0.1:8000"
+ const apiUrl = "http://154.205.134.245:8000"
+//const apiUrl="http://127.0.0.1:8000"
 // const apiUrl="https://iclooud.help/api"
 
 const apiPostHandle = async (url, data) => {
