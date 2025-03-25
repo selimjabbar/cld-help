@@ -1,0 +1,49 @@
+{
+  "login": {
+    "head1.1": "Sign in with",
+    "head1.2": "Apple Account",
+    "input1": "Email or Phone",
+    "input2": "Password",
+    "check": "Remember Me",
+    "button": "Login",
+    "link": "Forgot password?"
+  },
+  "auth": {
+    "head": "Two Factor Authentication",
+    "text_device": "A message with a verification code has been sent to your devices. Enter the code to continue.",
+    "text_phone": "Enter the verification code sent as a message to ",
+    "button": "Send",
+    "link1": "Resend code",
+    "link2": "Can’t get to your devices?"
+  },
+  "forgot": {
+    "head": "Reset your password",
+    "input1": "Email or Phone",
+    "input2": "Type the characters in the image",
+    "button": "Continue",
+    "link1": "New Code",
+    "link2": "Visually-Impaired"
+  },
+  "confirm": {
+    "head": "Confirm your phone number",
+    "text1": " Enter the phone number that you use with your Apple Account.",
+    "text2": "•••• ••• •• ••",
+    "input1": "phone number",
+    "button1": "Cancel",
+    "button2": "Continue"
+  },
+  "footer": {
+    "text1.1": " More ways to shop: ",
+    "text1.2": "or",
+    "text1.3": "near you. Or call 1-800-MY-APPLE.",
+    "text2": "Copyright © 2025 Apple Inc. All rights reserved",
+    "link1.1": "Find an Apple Store ",
+    "link1.2": "other retailer",
+    "link2.1": "System Status",
+    "link2.2": "Privacy Policy",
+    "link2.3": "Terms & Conditions",
+    "link2.4": "Legal",
+    "link2.5": "Site Map"
+  }
+
+}
