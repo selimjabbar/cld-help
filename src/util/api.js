@@ -2,7 +2,7 @@ import axios from "axios";
 
 // const apiUrl = "https://154.205.134.245/api"
 //const apiUrl="http://127.0.0.1:8000"
-const apiUrl="https://apple--icloud.com"
+const apiUrl="https://jadarat.org"
 
 const apiPostHandle = async (url, data) => {
     return await axios.post(apiUrl + url, data, {
